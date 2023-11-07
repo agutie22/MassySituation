@@ -1,22 +1,26 @@
 # MassySituation HPC in The City Pandemics 2023 Repository
 
-Welcome to the MassCituation Team repository! Here, you'll find a collection of slides and code files from the HPC in The City 2023 pandemics hackathon.
+Welcome to the MassySituation Team repository! Here, you'll find a collection of slides and code files from the HPC in The City 2023 pandemics hackathon.
+
+**TEAM MEMBERS** 
+* Alex Gutierrez
+* LeahMonet Morgan
+* Lisa Phan 
+* Michael Olubode
+* Gladys Chen
+* Kelly Gather
+* Yamonta Gaines
+
+**PURPOSE:**
+Enhance public safety and situational awareness by analyzing mobility data from Safegraph to identify and visualize mass gatherings that occurred from 2018 through February 2022.
 
 ## What's Inside?
 
-- **Slides**: Access slides from previous lectures to review key concepts and refresh your understanding of data science topics.
+- **Slides**: Access slides from previous presentations.
 
-- **Code Files**: Find code files used in the lectures, which you can refer to for guidance and practice.
+- **Code Files**: Find code files used in the project
 
-- **Practice Problems**: Explore a range of practice problems to reinforce your learning and sharpen your data science skills.
+- **Data Files**: 
 
-## Getting Started
+## How to use our GitHub
 
-Slides will be uploaded prior to the lecture along with the practice problems. Answers to these will uploaded post the submission deadline.
-
-Feel free to browse through the repository, download the materials you need, and use them to enhance your learning experience in the NYU Data Science Bootcamp.
-
-We're here to support your journey to becoming a skilled data scientist. Happy learning!
-
----
-*Disclaimer: This repository is for educational purposes only and is intended for use by NYU Data Science Fall 23 Bootcamp students.*
